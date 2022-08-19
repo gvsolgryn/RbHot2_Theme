@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseOnThemeId</key>
+	<integer>2</integer>
+	<key>Name</key>
+	<string>05_Volzza</string>
+	<key>FileName</key>
+	<string>thema_volzza</string>
+	<key>ID</key>
+	<integer>5</integer>
+</dict>
+</plist>

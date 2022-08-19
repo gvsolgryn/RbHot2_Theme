@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseOnThemeId</key>
+	<integer>2</integer>
+	<key>Name</key>
+	<string>04_Groovin</string>
+	<key>FileName</key>
+	<string>thema_groovin</string>
+	<key>ID</key>
+	<integer>4</integer>
+</dict>
+</plist>
